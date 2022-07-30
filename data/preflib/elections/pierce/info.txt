@@ -1,0 +1,37 @@
+Name: Pierce Election Data
+
+Abbreviation: pierce
+
+Category: ED
+
+Series Number: 00020
+
+Path: ED/pierce
+
+Description: <p>The 2008 Pierce Data contains the results from several elections, including county executive, held in Pierce, WA in 2008. The set contains 4 distinct elections with between 4 and 7 canddiates and 40,000 and 300,000 voters.</p> <p>Note that these elections were conducted under a ranked voting system which allowed blank entries. In processing this data for PrefLib we have ignored blanks and only report the order over the candidates.</p><p> The data on this page was donated by Jeffrey O'Neill who runs the site <a href="http://www.openstv.org">OpenSTV.org</a>.</p>
+
+Required Citations: Open STV; Jeffery O'Neill; <a href="http://www.openstv.org">www.OpenSTV.org</a>; 2013
+
+Selected Studies: 
+
+description, status, file_name
+2009 Pierce County Auditor, induced, ED-00020-00000001.mjg
+2009 Pierce County Auditor, induced, ED-00020-00000001.pwg
+2009 Pierce County Auditor, imbued, ED-00020-00000001.toc
+2009 Pierce County Auditor, original, ED-00020-00000001.toi
+2009 Pierce County Auditor, induced, ED-00020-00000001.wmg
+2008 Pierce County Council - District 2, induced, ED-00020-00000002.pwg
+2008 Pierce County Council - District 2, imbued, ED-00020-00000002.toc
+2008 Pierce County Council - District 2, induced, ED-00020-00000002.tog
+2008 Pierce County Council - District 2, original, ED-00020-00000002.toi
+2008 Pierce County Council - District 2, induced, ED-00020-00000002.wmg
+2008 Pierce County Executive, induced, ED-00020-00000003.mjg
+2008 Pierce County Executive, induced, ED-00020-00000003.pwg
+2008 Pierce County Executive, imbued, ED-00020-00000003.toc
+2008 Pierce County Executive, original, ED-00020-00000003.toi
+2008 Pierce County Executive, induced, ED-00020-00000003.wmg
+2008 Pierce County Assessor - Treasurer, induced, ED-00020-00000004.mjg
+2008 Pierce County Assessor - Treasurer, induced, ED-00020-00000004.pwg
+2008 Pierce County Assessor - Treasurer, imbued, ED-00020-00000004.toc
+2008 Pierce County Assessor - Treasurer, original, ED-00020-00000004.toi
+2008 Pierce County Assessor - Treasurer, induced, ED-00020-00000004.wmg

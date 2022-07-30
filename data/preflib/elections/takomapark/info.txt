@@ -1,0 +1,22 @@
+Name: Takoma Park Election Data
+
+Abbreviation: takomapark
+
+Category: ED
+
+Series Number: 00023
+
+Path: ED/takomapark
+
+Description: <p>The Takoma Park Data contains the results from the 2007 Takoma Park, WA special election for city council. The set contains one elections with between 4 canddiates and about 400 voters.</p> <p>Note that these elections were conducted under a ranked voting system which allowed blank entries. In processing this data for PrefLib we have ignored blanks and only report the order over the candidates.</p><p> The data on this page was donated by Jeffrey O'Neill who runs the site <a href="http://www.openstv.org">OpenSTV.org</a>.</p>
+
+Required Citations: Open STV; Jeffery O'Neill; <a href="http://www.openstv.org">www.OpenSTV.org</a>; 2013
+
+Selected Studies: 
+
+description, status, file_name
+2007 Takoma Park City Council Special Election - Ward 5, induced, ED-00023-00000001.pwg
+2007 Takoma Park City Council Special Election - Ward 5, imbued, ED-00023-00000001.toc
+2007 Takoma Park City Council Special Election - Ward 5, induced, ED-00023-00000001.tog
+2007 Takoma Park City Council Special Election - Ward 5, original, ED-00023-00000001.toi
+2007 Takoma Park City Council Special Election - Ward 5, induced, ED-00023-00000001.wmg

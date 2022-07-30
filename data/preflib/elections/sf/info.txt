@@ -1,0 +1,87 @@
+Name: San Francisco Election Data
+
+Abbreviation: sf
+
+Category: ED
+
+Series Number: 00021
+
+Path: ED/sf
+
+Description: <p>The San Francsico data contains the results from several elections, including board of supervisors, district attorny, and mayoral elections, held in San Francisco, CA between 2008 and 2012. The set contains 14 distinct elections with between 4 and 25 canddiates and 18,000 and 195,000 voters.</p> <p>Note that these elections were conducted under a ranked voting system which allowed blank entries. In processing this data for PrefLib we have ignored blanks and only report the order over the candidates.</p><p> The data on this page was donated by Jeffrey O'Neill who runs the site <a href="http://www.openstv.org">OpenSTV.org</a>.</p>
+
+Required Citations: Open STV; Jeffery O'Neill; <a href="http://www.openstv.org">www.OpenSTV.org</a>; 2013
+
+Selected Studies: 
+
+description, status, file_name
+2008 San Francisco Board of Supervisors - District 1, induced, ED-00021-00000001.mjg
+2008 San Francisco Board of Supervisors - District 1, induced, ED-00021-00000001.pwg
+2008 San Francisco Board of Supervisors - District 1, imbued, ED-00021-00000001.toc
+2008 San Francisco Board of Supervisors - District 1, original, ED-00021-00000001.toi
+2008 San Francisco Board of Supervisors - District 1, induced, ED-00021-00000001.wmg
+2008 San Francisco Board of Supervisors - District 11, induced, ED-00021-00000002.mjg
+2008 San Francisco Board of Supervisors - District 11, induced, ED-00021-00000002.pwg
+2008 San Francisco Board of Supervisors - District 11, imbued, ED-00021-00000002.toc
+2008 San Francisco Board of Supervisors - District 11, original, ED-00021-00000002.toi
+2008 San Francisco Board of Supervisors - District 11, induced, ED-00021-00000002.wmg
+2008 San Francisco - Board of Supervisors District 3, induced, ED-00021-00000003.mjg
+2008 San Francisco - Board of Supervisors District 3, induced, ED-00021-00000003.pwg
+2008 San Francisco - Board of Supervisors District 3, imbued, ED-00021-00000003.toc
+2008 San Francisco - Board of Supervisors District 3, original, ED-00021-00000003.toi
+2008 San Francisco - Board of Supervisors District 3, induced, ED-00021-00000003.wmg
+2008 San Francisco Board of Supervisors - District 4, induced, ED-00021-00000004.pwg
+2008 San Francisco Board of Supervisors - District 4, imbued, ED-00021-00000004.toc
+2008 San Francisco Board of Supervisors - District 4, induced, ED-00021-00000004.tog
+2008 San Francisco Board of Supervisors - District 4, original, ED-00021-00000004.toi
+2008 San Francisco Board of Supervisors - District 4, induced, ED-00021-00000004.wmg
+2008 San Francisco Board of Supervisors - District 9, induced, ED-00021-00000005.mjg
+2008 San Francisco Board of Supervisors - District 9, induced, ED-00021-00000005.pwg
+2008 San Francisco Board of Supervisors - District 9, imbued, ED-00021-00000005.toc
+2008 San Francisco Board of Supervisors - District 9, original, ED-00021-00000005.toi
+2008 San Francisco Board of Supervisors - District 9, induced, ED-00021-00000005.wmg
+2010 San Francisco Board of Supervisors - District 10, induced, ED-00021-00000006.mjg
+2010 San Francisco Board of Supervisors - District 10, induced, ED-00021-00000006.pwg
+2010 San Francisco Board of Supervisors - District 10, imbued, ED-00021-00000006.toc
+2010 San Francisco Board of Supervisors - District 10, original, ED-00021-00000006.toi
+2010 San Francisco Board of Supervisors - District 10, induced, ED-00021-00000006.wmg
+2010 San Francisco Board of Supervisors - District 2, induced, ED-00021-00000007.mjg
+2010 San Francisco Board of Supervisors - District 2, induced, ED-00021-00000007.pwg
+2010 San Francisco Board of Supervisors - District 2, imbued, ED-00021-00000007.toc
+2010 San Francisco Board of Supervisors - District 2, original, ED-00021-00000007.toi
+2010 San Francisco Board of Supervisors - District 2, induced, ED-00021-00000007.wmg
+2010 San Francisco Board of Supervisors - District 6, induced, ED-00021-00000008.mjg
+2010 San Francisco Board of Supervisors - District 6, induced, ED-00021-00000008.pwg
+2010 San Francisco Board of Supervisors - District 6, imbued, ED-00021-00000008.toc
+2010 San Francisco Board of Supervisors - District 6, original, ED-00021-00000008.toi
+2010 San Francisco Board of Supervisors - District 6, induced, ED-00021-00000008.wmg
+2010 San Francisco Board of Supervisors - District 8, induced, ED-00021-00000009.pwg
+2010 San Francisco Board of Supervisors - District 8, imbued, ED-00021-00000009.toc
+2010 San Francisco Board of Supervisors - District 8, induced, ED-00021-00000009.tog
+2010 San Francisco Board of Supervisors - District 8, original, ED-00021-00000009.toi
+2010 San Francisco Board of Supervisors - District 8, induced, ED-00021-00000009.wmg
+2011 San Francisco District Attorney, induced, ED-00021-00000010.mjg
+2011 San Francisco District Attorney, induced, ED-00021-00000010.pwg
+2011 San Francisco District Attorney, imbued, ED-00021-00000010.toc
+2011 San Francisco District Attorney, original, ED-00021-00000010.toi
+2011 San Francisco District Attorney, induced, ED-00021-00000010.wmg
+2011 San Francisco Mayor, induced, ED-00021-00000011.mjg
+2011 San Francisco Mayor, induced, ED-00021-00000011.pwg
+2011 San Francisco Mayor, imbued, ED-00021-00000011.toc
+2011 San Francisco Mayor, original, ED-00021-00000011.toi
+2011 San Francisco Mayor, induced, ED-00021-00000011.wmg
+2011 San Francisco Sheriff, induced, ED-00021-00000012.mjg
+2011 San Francisco Sheriff, induced, ED-00021-00000012.pwg
+2011 San Francisco Sheriff, imbued, ED-00021-00000012.toc
+2011 San Francisco Sheriff, original, ED-00021-00000012.toi
+2011 San Francisco Sheriff, induced, ED-00021-00000012.wmg
+2012 San Francisco Board of Supervisors - District 5, induced, ED-00021-00000013.mjg
+2012 San Francisco Board of Supervisors - District 5, induced, ED-00021-00000013.pwg
+2012 San Francisco Board of Supervisors - District 5, imbued, ED-00021-00000013.toc
+2012 San Francisco Board of Supervisors - District 5, original, ED-00021-00000013.toi
+2012 San Francisco Board of Supervisors - District 5, induced, ED-00021-00000013.wmg
+San Francisco Board of Supervisors - District 7, induced, ED-00021-00000014.mjg
+San Francisco Board of Supervisors - District 7, induced, ED-00021-00000014.pwg
+San Francisco Board of Supervisors - District 7, imbued, ED-00021-00000014.toc
+San Francisco Board of Supervisors - District 7, original, ED-00021-00000014.toi
+San Francisco Board of Supervisors - District 7, induced, ED-00021-00000014.wmg

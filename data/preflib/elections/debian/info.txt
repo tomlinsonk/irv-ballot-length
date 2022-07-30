@@ -1,0 +1,57 @@
+Name: Debian Project Data
+
+Abbreviation: debian
+
+Category: ED
+
+Series Number: 00002
+
+Path: ED/debian
+
+Description: <p>The Debian Project Leader Elections are held yearly with most of the ballots available <a href="http://www.debian.org/vote/">online.</a></p> <p> We have captured several years of data below including the vote for the Debian logo. Some years there have been only a few candidate and we have omitted these years. The included data sets have between 4 and 9 candidates depending on instance and about 400 individual votes per instance.</p>
+
+Required Citations: 
+
+Selected Studies: 
+
+description, status, file_name
+Debian 2002 Leader, induced, ED-00002-00000001.pwg
+Debian 2002 Leader, original, ED-00002-00000001.soi
+Debian 2002 Leader, imbued, ED-00002-00000001.toc
+Debian 2002 Leader, induced, ED-00002-00000001.tog
+Debian 2002 Leader, induced, ED-00002-00000001.wmg
+Debian 2003 Leader, induced, ED-00002-00000002.pwg
+Debian 2003 Leader, original, ED-00002-00000002.soi
+Debian 2003 Leader, imbued, ED-00002-00000002.toc
+Debian 2003 Leader, induced, ED-00002-00000002.tog
+Debian 2003 Leader, induced, ED-00002-00000002.wmg
+Debian 2005 Leader, induced, ED-00002-00000003.pwg
+Debian 2005 Leader, original, ED-00002-00000003.soi
+Debian 2005 Leader, imbued, ED-00002-00000003.toc
+Debian 2005 Leader, induced, ED-00002-00000003.tog
+Debian 2005 Leader, induced, ED-00002-00000003.wmg
+Debian 2006 Leader, induced, ED-00002-00000004.pwg
+Debian 2006 Leader, original, ED-00002-00000004.soi
+Debian 2006 Leader, imbued, ED-00002-00000004.toc
+Debian 2006 Leader, induced, ED-00002-00000004.tog
+Debian 2006 Leader, induced, ED-00002-00000004.wmg
+Debian 2007 Leader, induced, ED-00002-00000005.pwg
+Debian 2007 Leader, original, ED-00002-00000005.soi
+Debian 2007 Leader, imbued, ED-00002-00000005.toc
+Debian 2007 Leader, induced, ED-00002-00000005.tog
+Debian 2007 Leader, induced, ED-00002-00000005.wmg
+Debian 2010 Leader, induced, ED-00002-00000006.pwg
+Debian 2010 Leader, original, ED-00002-00000006.soi
+Debian 2010 Leader, imbued, ED-00002-00000006.toc
+Debian 2010 Leader, induced, ED-00002-00000006.tog
+Debian 2010 Leader, induced, ED-00002-00000006.wmg
+Debian 2012 Leader, induced, ED-00002-00000007.pwg
+Debian 2012 Leader, original, ED-00002-00000007.soi
+Debian 2012 Leader, imbued, ED-00002-00000007.toc
+Debian 2012 Leader, induced, ED-00002-00000007.tog
+Debian 2012 Leader, induced, ED-00002-00000007.wmg
+Debian Logo, induced, ED-00002-00000008.pwg
+Debian Logo, original, ED-00002-00000008.soi
+Debian Logo, imbued, ED-00002-00000008.toc
+Debian Logo, induced, ED-00002-00000008.tog
+Debian Logo, induced, ED-00002-00000008.wmg

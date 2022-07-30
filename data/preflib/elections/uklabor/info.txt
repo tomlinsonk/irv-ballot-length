@@ -1,0 +1,22 @@
+Name: UK Labor Party Leadership Vote
+
+Abbreviation: uklabor
+
+Category: ED
+
+Series Number: 00030
+
+Path: ED/uklabor
+
+Description: <p>The <a href="http://rangevoting.org/LabourUK2010.html">2010 UK Labor Party Leadership Vote is posted at www.rangevoting.org.</a>  This set contains the votes cast by all 266 MPs over the 5 leadership candidates.  The votes are incomplete strict orders which we have posted along with extensions placing all unranked candidates tied at the end and pairwise graphs.</p>
+
+Required Citations: 
+
+Selected Studies: The Election, by Instant Runoff Voting, of UK Labour Party Leader in late-September 2010; Jim Riley, Ivan Ryan, Warren D. Smith; Available at <a href="http://rangevoting.org/LabourUK2010.html">www.rangevoting.com</a>; 2010
+
+description, status, file_name
+2010 UK Labor Leadership, induced, ED-00030-00000001.mjg
+2010 UK Labor Leadership, induced, ED-00030-00000001.pwg
+2010 UK Labor Leadership, original, ED-00030-00000001.soi
+2010 UK Labor Leadership, imbued, ED-00030-00000001.toc
+2010 UK Labor Leadership, induced, ED-00030-00000001.wmg

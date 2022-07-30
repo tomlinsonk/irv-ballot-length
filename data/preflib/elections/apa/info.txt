@@ -1,0 +1,77 @@
+Name: APA Election Data
+
+Abbreviation: apa
+
+Category: ED
+
+Series Number: 00028
+
+Path: ED/apa
+
+Description: <p>This dataset contains the results of the elections of the American Psychological Association between 1998 - 2009.  The voters are allowed to rank any number of the 5 candidates without ties.  Each of these elections have 5 candidates and between 13,318 and 20,239 voters.</p><p>These data were donated by Michal Regenwetter and Anna Popova from the University of Illinois at Urbana-Champaign.  The work that analyzed this data was supported by National Science Foundation grants SES # 08-20009, ICES # 1216016 (PI: M. Regenwetter), the University Library at the University of Illinois at Urbana-Champaign (PI: A. Popova), and the Basic Research Program at HSE (S. Popov). We thank the American Psychological Association for permitting access to its election ballot data. More information and tools for analyzing this data can be found at the website of the <a href="http://regenwetterlab.org/software/consensus/">Decision Making Laboratory at the University of Illinois</a>.</p>
+
+Required Citations: The unexpected empirical consensus among consensus methods; Regenwetter, M., Kim, A., Kantor, A., & Ho, M.-H. R.; Psychological Science, 18, 629-635; 2007| Behavioural social choice: A status report; Regenwetter, M., Grofman, B., Popova, A., Messner, W., Davis-Stober, C. & Cavagnaro, D.; Philosophical Transactions of the Royal Society B: Biological Sciences, 364, 833-843; 2009 | Consensus formation in organizations: Hunting for the social choice conundrum in American Psychological Association elections; Popov, S., Popova, A., Regenwetter, M.; Decision; 2015
+
+Selected Studies: 
+
+description, status, file_name
+APA_1998, induced, ED-00028-00000001.pwg
+APA_1998, original, ED-00028-00000001.soi
+APA_1998, imbued, ED-00028-00000001.toc
+APA_1998, induced, ED-00028-00000001.tog
+APA_1998, induced, ED-00028-00000001.wmg
+APA_1999, induced, ED-00028-00000002.mjg
+APA_1999, induced, ED-00028-00000002.pwg
+APA_1999, original, ED-00028-00000002.soi
+APA_1999, imbued, ED-00028-00000002.toc
+APA_1999, induced, ED-00028-00000002.wmg
+APA_2000, induced, ED-00028-00000003.mjg
+APA_2000, induced, ED-00028-00000003.pwg
+APA_2000, original, ED-00028-00000003.soi
+APA_2000, imbued, ED-00028-00000003.toc
+APA_2000, induced, ED-00028-00000003.wmg
+APA_2001, induced, ED-00028-00000004.mjg
+APA_2001, induced, ED-00028-00000004.pwg
+APA_2001, original, ED-00028-00000004.soi
+APA_2001, imbued, ED-00028-00000004.toc
+APA_2001, induced, ED-00028-00000004.wmg
+APA_2002, induced, ED-00028-00000005.pwg
+APA_2002, original, ED-00028-00000005.soi
+APA_2002, imbued, ED-00028-00000005.toc
+APA_2002, induced, ED-00028-00000005.tog
+APA_2002, induced, ED-00028-00000005.wmg
+APA_2003, induced, ED-00028-00000006.pwg
+APA_2003, original, ED-00028-00000006.soi
+APA_2003, imbued, ED-00028-00000006.toc
+APA_2003, induced, ED-00028-00000006.tog
+APA_2003, induced, ED-00028-00000006.wmg
+APA_2004, induced, ED-00028-00000007.mjg
+APA_2004, induced, ED-00028-00000007.pwg
+APA_2004, original, ED-00028-00000007.soi
+APA_2004, imbued, ED-00028-00000007.toc
+APA_2004, induced, ED-00028-00000007.wmg
+APA_2005, induced, ED-00028-00000008.mjg
+APA_2005, induced, ED-00028-00000008.pwg
+APA_2005, original, ED-00028-00000008.soi
+APA_2005, imbued, ED-00028-00000008.toc
+APA_2005, induced, ED-00028-00000008.wmg
+APA_2006, induced, ED-00028-00000009.mjg
+APA_2006, induced, ED-00028-00000009.pwg
+APA_2006, original, ED-00028-00000009.soi
+APA_2006, imbued, ED-00028-00000009.toc
+APA_2006, induced, ED-00028-00000009.wmg
+APA_2007, induced, ED-00028-00000010.mjg
+APA_2007, induced, ED-00028-00000010.pwg
+APA_2007, original, ED-00028-00000010.soi
+APA_2007, imbued, ED-00028-00000010.toc
+APA_2007, induced, ED-00028-00000010.wmg
+APA_2008, induced, ED-00028-00000011.mjg
+APA_2008, induced, ED-00028-00000011.pwg
+APA_2008, original, ED-00028-00000011.soi
+APA_2008, imbued, ED-00028-00000011.toc
+APA_2008, induced, ED-00028-00000011.wmg
+APA_2009, induced, ED-00028-00000012.mjg
+APA_2009, induced, ED-00028-00000012.pwg
+APA_2009, original, ED-00028-00000012.soi
+APA_2009, imbued, ED-00028-00000012.toc
+APA_2009, induced, ED-00028-00000012.wmg
