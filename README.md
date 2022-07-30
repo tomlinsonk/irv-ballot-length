@@ -49,7 +49,7 @@ Rerun the synthetic data experiments--use as many threads as you have cores for 
 
 Rerun the PrefLib resampling experiments:
 
-    python3 real_data.py --threeads [THREADS]
+    python3 real_data.py --threads [THREADS]
 
 ## Uniform 1-Euclidean visualization tool
 To visualize IRV in in 1-dimension with uniform 1-Euclidean voters, try running

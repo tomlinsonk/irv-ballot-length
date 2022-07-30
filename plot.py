@@ -7,6 +7,7 @@ import pickle
 import matplotlib.pyplot as plt
 import yaml
 from matplotlib import patches, cm
+from matplotlib.ticker import MaxNLocator
 
 with open('config.yml', 'r') as f:
     config = yaml.safe_load(f)
@@ -245,7 +246,8 @@ def plot_preflib_resampling():
             for i, winner in enumerate(unique_winners):
                 proportions[i] = np.sum(winners_seqs == winner, axis=0) / winners_seqs.shape[0]
 
-            plt.figure(figsize=(3, 2))
+            ax = plt.figure(figsize=(4, 3)).gca()
+
             for winner in reversed(range(unique_winners.shape[0])):
                 bottom = np.sum(proportions[:winner], axis=0)
                 plt.bar(np.arange(1, winners_seqs.shape[1]+1), proportions[winner], bottom=bottom, label=cand_names[unique_winners[winner]], width=1)
@@ -257,17 +259,15 @@ def plot_preflib_resampling():
             if collection != 'ers':
                 plt.legend(fontsize=8, framealpha=0.8)
 
-            if stripped_election_name in replace_names:
-                plt.title(f'{replace_names[stripped_election_name]}')
-            else:
-                plt.title(f'{collection}, {stripped_election_name}, $k={len(cand_names)}$, $n={sum(ballot_counts)}$')
+            ax.xaxis.set_major_locator(MaxNLocator(integer=True))
+
+            plt.title(f'{stripped_election_name}, $k={len(cand_names)}$, $n={sum(ballot_counts)}$')
             plt.xlim(0.5, winners_seqs.shape[1]+0.5)
             plt.ylim(0, 1)
             plt.xlabel('Ballot length $h$')
             plt.ylabel('Resampling win prob.')
             plt.savefig(f'{resample_win_prob_dir}/{stripped_election_name}-stacked-bars.pdf', bbox_inches='tight')
             plt.close()
-
 
     fig, axes = plt.subplots(1, 3, figsize=(10, 2.5), sharey=True)
 
@@ -283,7 +283,7 @@ def plot_preflib_resampling():
 
     labels, counts = np.unique(max_unique_winners, return_counts=True)
     axes[2].bar(labels, counts, align='center')
-    axes[2].set_xticks([1, 2, 3, 4, 5])
+    axes[2].set_xticks([1, 2, 3, 4, 5, 6])
     axes[2].set_xlabel('Truncation winners')
     axes[2].set_title('Maximum')
 
