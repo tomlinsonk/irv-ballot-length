@@ -131,7 +131,7 @@ def recurse_on_region(left, right, rank, left_option, right_option, cand_idxs, o
 def get_continuous_regions(cand_pos):
     """
     Compute the regions at each rank where each candidate is listed by voters in that region at that rank.
-    e.g., {r: {(left, right): c}} means that voters in (left, right) rank candidate c and rank r
+    e.g., {r: {(left, right): c}} means that voters in (left, right) rank candidate c at rank r
 
     :param cand_pos: The positions of all the candidates
     :return: a dict from ranks to dicts from intervals to candidates, such as {rank: {(left, right): candidate}}
